@@ -24,7 +24,7 @@ A simple TODO API with a real-time UI, built for the [apijack](https://github.co
 
    ```bash
    cd apijack-tutorial
-   npx @apijack/core plugin install
+   bunx @apijack/core plugin install
    ```
 
 4. Open Claude Code in the `apijack-tutorial` directory and connect to the API:
